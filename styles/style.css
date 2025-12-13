@@ -39,7 +39,7 @@
 }
 
 .h1 {
-    font-family: angelicWar;
+    font-family: "angelicWar";
     font-size: 85px;
 }
 
@@ -212,8 +212,9 @@ footer {
 }
 
 @font-face {
-  font-family: angelicWar;
+  font-family: "angelicWar";
   src: url("../assets/fonts/angelic_war/AngelicWar.ttf");
 }
+
 
 
